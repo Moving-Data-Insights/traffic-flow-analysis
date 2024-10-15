@@ -1,0 +1,5 @@
+SQLAlchemy~=2.0.35
+numpy~=2.1.2
+psycopg2-binary~=2.9.9
+jupysql~=0.10.14
+pandas~=2.2.3
